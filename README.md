@@ -2,7 +2,7 @@
 
 **[🔗 Click Here to View the Interactive Tableau Dashboard](https://public.tableau.com/views/Superstore_Sales_and_Profit_Analysis/SuperstoreSalesProfitAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
-![Superstore Dashboard](ضع_اسم_الصورة_هنا.png)
+![Superstore Dashboard](Screenshot - 18_06_2026 , 11_55_20 �.png)
 
 ## 🎯 Project Objective
 To evaluate the sales and profit performance of a US-based retail superstore. The goal is to uncover seasonal trends (e.g., testing the "Summer Sales" hypothesis) and identify key factors that negatively impact overall profitability despite high sales volumes.
